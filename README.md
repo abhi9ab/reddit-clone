@@ -6,7 +6,7 @@ I've worked hard to replicate the core features of Reddit, including user postin
 ## Preview  
 
 ### Home page  
-<img width="960" alt="Screenshot 2024-04-27 144039" src="https://github.com/abhi9ab/reddit-clone/assets/118924053/abc0fd98-db8c-45cd-8e5a-876a2fc66b82">  
+<img width="958" alt="Screenshot 2024-04-27 144039" src="https://github.com/abhi9ab/reddit-clone/assets/118924053/dd78112f-ac3f-41e2-8ee6-d8c3fb706d0f">  
 
 ### Create page  
 <img width="960" alt="Screenshot 2024-04-27 144119" src="https://github.com/abhi9ab/reddit-clone/assets/118924053/4190e7d3-da90-469c-968d-ab15f821f68a">  
