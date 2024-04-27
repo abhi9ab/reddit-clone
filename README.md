@@ -39,7 +39,7 @@ To get started, clone this repository to your local machine and follow the insta
   ```nodemon server.js```  
 ### Step 7: Open a browser and access [http://localhost:5173](http://localhost:5173).  
 
-for more info, refer:  
+Documentation:  
 
   [nodejs](https://nodejs.org/en)  
   [react](https://react.dev/)  
