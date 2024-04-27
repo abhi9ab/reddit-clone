@@ -35,10 +35,10 @@ To get started, clone this repository to your local machine and follow the insta
 
 for more info, refer:
 
-  [nodejs](https://nodejs.org/en)
-  [react](https://react.dev/)
-  [postgresql](https://www.postgresql.org/)
-  [tailwindcss](https://tailwindcss.com/)
+  [nodejs](https://nodejs.org/en)  
+  [react](https://react.dev/)  
+  [postgresql](https://www.postgresql.org/)  
+  [tailwindcss](https://tailwindcss.com/)  
 
 
 
