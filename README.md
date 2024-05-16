@@ -15,11 +15,17 @@ I've worked hard to replicate the core features of Reddit, including user postin
 
 To get started, clone this repository to your local machine and follow the installation instructions in the README.  
 ### Step 1: Clone the Repository  
-  ```git clone https://github.com/abhi9ab/reddit-clone.git```  
+  ```shell
+  git clone https://github.com/abhi9ab/reddit-clone.git
+  ```  
 ### Step 2: Navigate into the project directory that you just cloned  
-  ```cd <project-directory>```  
+  ```shell
+  cd <project-directory>
+  ```  
 ### Step 3: Install the necessary dependencies by running  
-  ```npm install```  
+  ```shell
+  npm install
+  ```  
 ### Step 4: Set Up the Database:  
   Make sure you have PostgreSQL installed on your local machine.  
 
@@ -28,15 +34,25 @@ To get started, clone this repository to your local machine and follow the insta
   The sql command required are provided in the database.sql file.  
 
 ### Step 5: Type the following command to build the client application:  
-  ```cd client```  
+  ```shell
+  cd client
+  ```  
 
-  ```npm run dev```  
+  ```shell
+  npm run dev
+  ```  
 ### Step 6: Type the following command to start the server:  
-  ```cd ..```  
+  ```shell
+  cd ..
+  ```  
   
-  ```cd server```  
+  ```shell
+  cd server
+  ```  
 
-  ```nodemon server.js```  
+  ```shell
+  nodemon server.js
+  ```  
 ### Step 7: Open a browser and access [http://localhost:5173](http://localhost:5173).  
 
 Documentation:  
